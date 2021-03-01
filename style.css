@@ -1,0 +1,7 @@
+.receipt-table th{
+  background-color: cadetblue;
+}
+.receipt-table {
+  width: 100%;
+  font-size: 20px;
+}
